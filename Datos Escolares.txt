@@ -1,0 +1,2 @@
+Universidad: Instituto tecnologico superior de la region sierra
+carrera: ing informatica
